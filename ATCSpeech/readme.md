@@ -18,7 +18,6 @@ A detailled contrast item will be submitted here as soon as possible.
 If you are interested in our work or make further research based on it, please cite our paper <https://arxiv.org/abs/1911.11365>
 "ATCSpeech: a multilingual pilot-controller speech corpus from real Air Traffic Control environment" as:
 
-
 @misc{yang2019atcspeech,
     title={ATCSpeech: a multilingual pilot-controller speech corpus from real Air Traffic Control environment},
     author={Bo Yang and Xianlong Tan and Zhengmao Chen and Bing Wang and Dan Li and Zhongping Yang and Xiping Wu and Yi Lin},
