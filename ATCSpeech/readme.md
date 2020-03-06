@@ -19,19 +19,19 @@ If you are interested in our work or make further research based on it, please c
 "ATCSpeech: a multilingual pilot-controller speech corpus from real Air Traffic Control environment" as:
   
   
-@misc{yang2019atcspeech, 
+@misc{yang2019atcspeech,
 
-        title={ATCSpeech: a multilingual pilot-controller speech corpus from real Air Traffic Control environment},     
+         title={ATCSpeech: a multilingual pilot-controller speech corpus from real Air Traffic Control environment},     
+         
+         author={Bo Yang and Xianlong Tan and Zhengmao Chen and Bing Wang and Dan Li and Zhongping Yang and Xiping Wu and Yi Lin},
+         
+        year={2019},     
     
-    ```author={Bo Yang and Xianlong Tan and Zhengmao Chen and Bing Wang and Dan Li and Zhongping Yang and Xiping Wu and Yi Lin},``` 
+        eprint={1911.11365},    
     
-    ```year={2019},``` 
+        archivePrefix={arXiv},     
     
-    ```eprint={1911.11365},``` 
-    
-    ```archivePrefix={arXiv},``` 
-    
-    ```primaryClass={cs.CL}``` 
+        primaryClass={cs.CL}    
     
 }
 
