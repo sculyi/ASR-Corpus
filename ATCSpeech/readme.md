@@ -19,17 +19,13 @@ If you are interested in our work or make further research based on it, please c
 "ATCSpeech: a multilingual pilot-controller speech corpus from real Air Traffic Control environment" as:
 
 
-@article{ATCSpeech,
-  author          = {Yang, Bo and Tan, Xianlong and Chen, Zhengmao and Wang, Bing and Li, Dan and Yang, Zhongping and Wu, Xiping and Lin, Yi},
-  title           = "{ATCSpeech: a multilingual pilot-controller speech corpus from real Air Traffic Control environment}",
-  journal         = {ArXiv e-prints},
-  archivePrefix   = "arXiv",
-  eprinttype      = {arxiv},
-  eprint          = {1911.11365},
-  primaryClass    = "cs.CL",
-  keywords        = {Computer Science - Computation and Language},
-  year            = 2019,
-  month           = Nov.,
+@misc{yang2019atcspeech,
+    title={ATCSpeech: a multilingual pilot-controller speech corpus from real Air Traffic Control environment},
+    author={Bo Yang and Xianlong Tan and Zhengmao Chen and Bing Wang and Dan Li and Zhongping Yang and Xiping Wu and Yi Lin},
+    year={2019},
+    eprint={1911.11365},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
 }
 
 # Contact
