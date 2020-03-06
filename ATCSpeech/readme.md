@@ -20,12 +20,12 @@ If you are interested in our work or make further research based on it, please c
   
   
 @misc{yang2019atcspeech,
-    <br/>```title={ATCSpeech: a multilingual pilot-controller speech corpus from real Air Traffic Control environment},```</br>
-    <br/>```author={Bo Yang and Xianlong Tan and Zhengmao Chen and Bing Wang and Dan Li and Zhongping Yang and Xiping Wu and Yi Lin},```</br>
-    <br/>```year={2019},```</br>
-    <br/>```eprint={1911.11365},```</br>
-    <br/>```archivePrefix={arXiv},```</br>
-    <br/>```primaryClass={cs.CL}```</br>
+    ```<br/>title={ATCSpeech: a multilingual pilot-controller speech corpus from real Air Traffic Control environment},</br>```
+    ```<br/>author={Bo Yang and Xianlong Tan and Zhengmao Chen and Bing Wang and Dan Li and Zhongping Yang and Xiping Wu and Yi Lin},</br>```
+    ```<br/>year={2019},</br>```
+    ```<br/>eprint={1911.11365},</br>```
+    ```<br/>archivePrefix={arXiv},</br>```
+    ```<br/>primaryClass={cs.CL}</br>```
 }
 
 # Contact
