@@ -21,15 +21,15 @@ If you are interested in our work or make further research based on it, please c
   
   
   
-@inproceedings{Yang2020,
-  author={Bo Yang and Xianlong Tan and Zhengmao Chen and Bing Wang and Min Ruan and Dan Li and Zhongping Yang and Xiping Wu and Yi Lin},
-  title={{ATCSpeech: A Multilingual Pilot-Controller Speech Corpus from Real Air Traffic Control Environment}},
-  year=2020,
-  booktitle={Proc. Interspeech 2020},
-  pages={399--403},
-  doi={10.21437/Interspeech.2020-1020},
-  url={http://dx.doi.org/10.21437/Interspeech.2020-1020}
-}
+@inproceedings{Yang2020,  
+  author={Bo Yang and Xianlong Tan and Zhengmao Chen and Bing Wang and Min Ruan and Dan Li and Zhongping Yang and Xiping Wu and Yi Lin},  
+  title={{ATCSpeech: A Multilingual Pilot-Controller Speech Corpus from Real Air Traffic Control Environment}},  
+  year=2020,  
+  booktitle={Proc. Interspeech 2020},  
+  pages={399--403},  
+  doi={10.21437/Interspeech.2020-1020},  
+  url={http://dx.doi.org/10.21437/Interspeech.2020-1020}  
+}  
 
 # Contact
 If you have any concern about this corpus, please feel free to contact us at boyang@scu.edu.cn or yilin@scu.edu.cn.
